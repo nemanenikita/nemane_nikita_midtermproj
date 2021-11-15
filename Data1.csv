@@ -1,0 +1,12 @@
+﻿TID,Transactions
+T1,"A, B, C"
+T2,"A, B, C"
+T3,"A, B, C, D"
+T4,"A, B, C, D, E"
+T5,"A, B, D, E"
+T6,"A, D, E"
+T7,"A, E"
+T8,"A, E"
+T9,"A, C, E"
+T10,"A, C, E"
+T11,"A, C, E"
